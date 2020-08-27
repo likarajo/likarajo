@@ -15,9 +15,7 @@ It's likarajo
 
 - 🔭 I’m currently working on enginnering data pipelines with full stack application development
 - 🌱 I’m currently learning React, AI and Neural Networks
-- 👯 I’m looking to collaborate on Big Data and Machine Learning areas
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything. -->
+- 👯 I’m looking to collaborate on Big Data and Machine Learning areas <!-- - 🤔 I’m looking for help with ...- 💬 Ask me about anything. -->
 - 📫 How to reach me: likarajo@gmail.com
 - ⚡ Fun fact: I love philanthropy, philosophy, personal development, intelligent systems, traveling, soccer 
 - 👀 I am an : [ENFJ](https://www.16personalities.com/enfj-personality)
