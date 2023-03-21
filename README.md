@@ -6,9 +6,10 @@
 
 It's likarajo
 
-<a href="https://www.linkedin.com/in/likarajo/" target="blank">
-  <img align="left" alt="Rajarshi Chattopadhyay | LinkedIn" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
-</a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="likarajo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/likarajo?trk=profile-badge">Rajarshi C</a></div>
+              
 
 <br />
 <br />
