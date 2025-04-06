@@ -11,4 +11,3 @@
 <!-- - 💬 Ask me about anything -->
 - 📫 How to **reach me**: likarajo@gmail.com
 - ⚡ **Fun fact**: I love philanthropy, personal development, intelligent systems, traveling, soccer 
-- 👀 I **am** an : [ENFJ](https://www.16personalities.com/enfj-personality)
