@@ -1,13 +1,9 @@
-<div align="left">
-  <img alt="Logo" src="logo.png" width="100" />
-</div>
+### Rajarshi Chattopadhyay
 
-### Hi there 👋
+Staff Software Engineer in Dallas. I build trustworthy natural-language interfaces to public data, focused on U.S. energy generation.
 
-- 🔭 My **profession** is Software Development.
-- 🌱 I’m currently **learning** AI in sustainability.
-- 👯 I’m **looking to** collaborate on Web application Development and Big Data and Machine Learning areas 
-<!-- - 🤔 I’m looking for help with -->
-<!-- - 💬 Ask me about anything -->
-- 📫 How to **reach me**: likarajo@gmail.com
-- ⚡ **Fun fact**: I love philanthropy, personal development, intelligent systems, traveling, soccer 
+- Site: https://likarajo.github.io
+- Writing: https://likarajo.github.io/writing/
+- Email: likarajo@gmail.com
+
+Current work: [ai-agent-chatbot](https://github.com/likarajo/ai-agent-chatbot) — ask a plain-language question about EIA electricity data; get one checked query, or a refusal when the table cannot answer.
